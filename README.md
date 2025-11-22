@@ -1,5 +1,5 @@
 # Robotic Arm Control with Joystick (Robotarm.ino)
-###Overview
+### Overview
 This project controls a 3-servo robotic arm (base rotation, arm extension, gripper) using a joystick for X/Y axes and a button for gripper toggling. It includes joystick smoothing, debouncing, and deadzone to reduce jitter. The code is a basic loop-based controller without networking.
 
 ### Hardware Requirements
